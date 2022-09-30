@@ -2,6 +2,8 @@
 
 **Course:** Digital Games Technologies
 
+**Specialty Area:** Robotics
+
 **Academic Year:** 2020/21
 
 **Semester:** 1st
